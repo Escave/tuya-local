@@ -1,6 +1,6 @@
 name: ME82 smart thermostat
 products:
-  - id: psssxcwgbx6m9apv
+  - id: bfb49d6f44072ec5c6tfas
     name: ME82 smart thermostat
 primary_entity:
   entity: climate
